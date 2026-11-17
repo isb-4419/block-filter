@@ -1,1 +1,7 @@
-
+! Title: My Personal Blocklist
+! Description: 個人用ブラックリスト
+!
+! NHK
+||nhk.jp^
+||nhk.or.jp^
+||web.nhk^
