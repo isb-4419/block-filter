@@ -1,6 +1,9 @@
 ! Title: My Personal Blocklist
 ! Description: 個人用ブラックリスト
-!
+
+! Apple OTA
+||gdmf.apple.com^
+
 ! NHK
 ||nhk.jp^
 ||nhk.or.jp^
@@ -13,3 +16,11 @@
 ||a.line.me^
 ||da.flvcdn.net^
 ||slim01.jp^
+
+! メルカリ
+||mercoin.com^
+||mercari-shops.com^
+||mercari-shops-static.com^
+
+! 楽天
+||rakuten.co.jp^
