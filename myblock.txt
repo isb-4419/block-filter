@@ -5,3 +5,11 @@
 ||nhk.jp^
 ||nhk.or.jp^
 ||web.nhk^
+
+! LINE
+||im.c.yimg.jp^
+||ad.line-scdn.net^
+||linecrs.line-scdn.net^
+||a.line.me^
+||da.flvcdn.net^
+||slim01.jp^
