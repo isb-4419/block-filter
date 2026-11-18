@@ -29,3 +29,6 @@
 
 ! 楽天
 ||rakuten.co.jp^
+
+! etc
+||nakanohito.jp^
