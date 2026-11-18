@@ -1,6 +1,11 @@
 ! Title: My Personal Blocklist
 ! Description: 個人用ブラックリスト
 
+! Claude関連の許可
+@@||claude.ai^
+@@||anthropic.com^
+@@||claude.com^
+
 ! Apple OTA
 ||gdmf.apple.com^
 
