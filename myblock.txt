@@ -31,4 +31,7 @@
 ||rakuten.co.jp^
 
 ! etc
+||piano.io^
 ||nakanohito.jp^
+||facebook.com^
+||facebook.net^
